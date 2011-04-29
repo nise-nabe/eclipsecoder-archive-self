@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/496/trunk/eclipsecoder-archive
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/83/trunk/eclipsecoder-archive/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/eclipsecoder-archive/.project
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/283/trunk/eclipsecoder-archive/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/plugin.xml
+END

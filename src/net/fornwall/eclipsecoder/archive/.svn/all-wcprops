@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/496/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive
+END
+ProblemStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/ProblemStats.java
+END
+EditorOpener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/EditorOpener.java
+END
+ProblemScraper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/496/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/ProblemScraper.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/280/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/messages.properties
+END
+SubmissionListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/SubmissionListView.java
+END
+SubmissionListFetcherJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/SubmissionListFetcherJob.java
+END
+SubmissionFetcherJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/SubmissionFetcherJob.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/280/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/Messages.java
+END
+ArchiveListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/478/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/ArchiveListView.java
+END
+DisabledWhileRunningJobAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/280/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/DisabledWhileRunningJobAction.java
+END
+Submission.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/225/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/Submission.java
+END
+ProblemFetcherJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/466/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/ProblemFetcherJob.java
+END
+ProblemParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/272/trunk/eclipsecoder-archive/src/net/fornwall/eclipsecoder/archive/ProblemParser.java
+END
