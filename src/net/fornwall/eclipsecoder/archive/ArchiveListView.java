@@ -143,14 +143,14 @@ public class ArchiveListView extends ViewPart {
 						.getFirstElement();
 				try {
 					// TODO: Cache a bit?
-					URLConnection c = new URL("http://www.topcoder.com/tc?module=Static&d1=match_editorials&d2=archive") //$NON-NLS-1$
+					URLConnection c = new URL("http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis") //$NON-NLS-1$
 							.openConnection();
 					BufferedReader reader = new BufferedReader(new InputStreamReader(c.getInputStream()));
 					try {
 						String line;
 						while ((line = reader.readLine()) != null) {
 							if (line.contains(stats.getContestName())) {
-								String href = Utilities.getMatch(line, "<a href=\"(.*?)\"", 1); //$NON-NLS-1$
+								String href = Utilities.getMatch(line, "<A href=\"(.*?)\"", 1); //$NON-NLS-1$
 								href = href.replaceAll("&amp;", "&");
 								// jump to the right place directly - older
 								// problem statements are not formatted this
@@ -159,8 +159,7 @@ public class ArchiveListView extends ViewPart {
 								PlatformUI.getWorkbench().getBrowserSupport().createBrowser(
 										IWorkbenchBrowserSupport.AS_VIEW, ArchiveListView.class.getCanonicalName(),
 										"", "").openURL( //$NON-NLS-1$ //$NON-NLS-2$
-										new URL("http://www.topcoder.com" //$NON-NLS-1$
-												+ href));
+										new URL(href));
 								return;
 							}
 						}
